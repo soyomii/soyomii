@@ -50,9 +50,10 @@ Registered Nurse
 
 ## 📁 Notable Projects
 
-- [Pneumonia Anomaly Detection AI](#)
+- [Pneumonia Anomaly Detection AI](https://github.com/soyomii/pneumonia-anomaly-xai)  
   비지도학습 기반 Autoencoder를 활용한 폐렴 이상 탐지 및 XAI 시각화 프로젝트  
   *(Python, TensorFlow, Matplotlib, Grad-CAM)*
 
+
 - [기타 프로젝트 준비 중](#)
-  EMR 기반 데이터 정제, 의료직무 자동화 기획 등
+  EMR 기반 데이터 정제, 의료 직무 자동화 기획 등
